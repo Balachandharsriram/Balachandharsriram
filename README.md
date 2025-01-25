@@ -43,10 +43,9 @@
 ---
 
 🧩 **GitHub Stats:**
-![Welcome Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Balachandharsriram&theme=onedark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balachandharsriram&theme=react-dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Balachandharsriram&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandharsriram&layout=compact&theme=radical)
-
+![Welcome Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
