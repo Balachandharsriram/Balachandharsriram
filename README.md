@@ -10,6 +10,10 @@
 - 📧 Email: [balachandharsriram.m@gmail.com](mailto:balachandharsriram.m@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/balachandharsriram/)
 - 🌐 [Portfolio Website](#) *(Optional)*
+- ![Welcome Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Balachandharsriram&theme=onedark)
+
+
 
 ---
 
