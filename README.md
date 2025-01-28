@@ -43,9 +43,9 @@
 - Completed Generative AI with Copilot in Bing (Microsoft).
 - Business Analyst Certification with Qlik Sense.
 - ### Certifications:
-- ![Microsoft Badge](https://img.shields.io/badge/Microsoft-GenerativeAI-blue) Generative AI with Copilot
-- ![Qlik Badge](https://img.shields.io/badge/Qlik-Business%20Analyst-green) Business Analysis
-- ![Guvi Badge](https://img.shields.io/badge/Guvi-Python%20Data%20Science-yellow) Python
+- ![Microsoft Badge](https://img.shields.io/badge/Microsoft-GenerativeAI-blue) 
+- ![Qlik Badge](https://img.shields.io/badge/Qlik-Business%20Analyst-green) 
+- ![Guvi Badge](https://img.shields.io/badge/Guvi-Python%20Data%20Science-yellow) 
 
 ---
 **Leetcode stats:**
