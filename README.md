@@ -49,11 +49,14 @@
 
 ---
 **Leetcode stats:**
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Balachandharsriram?theme=dark&font=Trade%20Winds)](https://leetcode.com/u/Balachandharsriram)
 
 ---
 
 🧩 **GitHub Stats:**
+
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Balachandharsriram&theme=onedark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balachandharsriram&theme=react-dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Balachandharsriram&show_icons=true&theme=radical)
