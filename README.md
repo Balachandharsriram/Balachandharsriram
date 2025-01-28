@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Balachandharsriram
 
 🚀 **About Me:**
-- 🔭 Passionate about AI, Data Science, and Full-Stack Development.
+- 🔭 Passionate about AI and Data Science.
 - 🎓 Pursuing B. Tech in Artificial Intelligence & Data Science at **Karpagam College of Engineering**.
 - 🌱 Currently learning **MLOps** and **Advanced Machine Learning Techniques**.
 - 💼 Open to collaborations on AI, ML, and innovative tech projects.
@@ -50,6 +50,6 @@
 
 🧩 **GitHub Stats:**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandharsriram&layout=compact&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Balachandharsriram&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandharsriram&layout=compact&theme=radical)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Balachandharsriram&show_icons=true&theme=radical) 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balachandharsriram&theme=react-dark)
 
