@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Balachandharsriram</h1>
 <h3 align="center">Artificial Intelligence & Data Science Enthusiast | Turning ideas into smart solutions 🚀</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="AI animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Artificial+Intelligence +%7C+ML+%7C+Data+Science+Developer;Machince+Learning+Developer;Let's+build+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 
