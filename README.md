@@ -17,7 +17,7 @@
 
 ## 🧰 My Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,mysql,mongodb,django,tensorflow,keras,bootstrap,git,github,docker,jenkins,vscode,eclipse,figma,hadoop,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,mysql,mongodb,django,tensorflow,git,github,docker,jenkins,vscode,eclipse,figma,hadoop,tableau,powerbi" />
 </p>
 
 ---
