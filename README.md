@@ -1,41 +1,38 @@
 <h1 align="center">Hi there 👋, I'm Balachandharsriram</h1>
-<h3 align="center">AI & Data Science Enthusiast | Open to Collaborations 🤝</h3>
-
----
+<h3 align="center">Artificial Intelligence & Data Science Enthusiast | Turning ideas into smart solutions 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+%7C+ML+%7C+Data+Science+Developer;Always+learning+new+things;Let's+build+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="AI animation"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-> 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at [Karpagam College of Engineering](https://www.kce.ac.in/)  
-> 🔍 Exploring **MLOps**, **Deep Learning**, and **Generative AI**  
-> 💼 Love working on innovative tech & AI-driven products  
-> 🚀 Always ready for **collaborations** & **hackathons**
+🎓 B.Tech in **Artificial Intelligence & Data Science** at [Karpagam College of Engineering](https://www.kce.ac.in/)  
+🔍 Exploring **MLOps**, **Deep Learning**, and **Generative AI**  
+💡 Love working on innovative products and automations  
+🤝 Always excited to collaborate on AI & ML projects
 
 ---
 
-## 🧑‍💻 Tech Stack & Tools
+## 🧰 My Tech Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,mysql,mongodb,django,tensorflow,keras,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,eclipse,figma,hadoop,tableau,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs,mysql,mongodb,django,tensorflow,keras,bootstrap,git,github,docker,jenkins,vscode,eclipse,figma,hadoop,tableau,powerbi" />
 </p>
 
 ---
 
-## 🔥 What I'm working on
-✅ **MLOps for Stroke Prediction** — build, deploy, monitor ML models  
-✅ **AutoML Insurance Predictor** — optimize pricing & detect fraud  
-✅ **Text to Video Generator** — convert text inputs to dynamic video using AI
+## 🚀 Featured Projects
+✅ **MLOps for Stroke Prediction:** Build, deploy, monitor ML models with full CI/CD  
+✅ **AutoML Insurance Prediction:** Pricing optimization & fraud detection  
+✅ **Text to Video Generator:** Convert text into dynamic AI-driven videos
 
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥇 **Microsoft:** Generative AI with Copilot in Bing  
-- 🥈 **Qlik Sense:** Business Analyst Certification  
-- 🥉 **Guvi:** Python Data Science
+- 🥇 **Generative AI with Copilot in Bing** - Microsoft
+- 🥈 **Business Analyst Certification** - Qlik Sense
+- 🥉 **Python Data Science** - Guvi
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft-GenerativeAI-blue" />
@@ -45,26 +42,40 @@
 
 ---
 
-## 🚀 GitHub Stats & LeetCode
+## 📈 Stats & Challenges
+
+### 🧩 LeetCode
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Balachandharsriram?theme=dark&font=Trade%20Winds" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandharsriram&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Balachandharsriram&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balachandharsriram&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://leetcard.jacoblin.cool/Balachandharsriram?theme=dark&font=Trade%20Winds" />
+</p>
+
+### 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandharsriram&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balachandharsriram&show_icons=true&theme=radical" />
+</p>
+---
+
+## ✨ Quote that drives me
+> **"Building intelligent systems one line of code at a time."**
+
+---
+
+## 🌐 Let's Connect & Build Together!
+<p align="center">
+  <a href="mailto:balachandharsriram.m@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/balachandharsriram">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://balachandharsriram.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💬 Let's Connect & Build Something Awesome!
-<p align="center">
-  <a href="mailto:balachandharsriram.m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/balachandharsriram"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://balachandharsriram.vercel.app"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p align="center"> 
+  🚀 <b>Have an idea or project? Let’s collaborate and bring it to life!</b> 
 </p>
-
----
-
-> ✨ **"Building intelligent systems one line at a time."**  
-> 💡 **Have an idea? Let's collaborate!**
-
----
