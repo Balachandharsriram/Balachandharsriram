@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Balachandharsriram</h1>
 <h3 align="center">Artificial Intelligence & Data Science Enthusiast🚀</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Artificial+Intelligence+%7C+ML+%7C+Data+Science+Developer;Machine+Learning+Developer;Let's+build+something+cool+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Artificial+Intelligence+%7C+ML+%7C+Data+Science+Developer;Machine+Learning+Developer;Let's+build+something+cool+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -47,6 +48,7 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Balachandharsriram?theme=dark&font=Trade%20Winds" />
 </p>
+
 ---
 
 ### 📊 GitHub
