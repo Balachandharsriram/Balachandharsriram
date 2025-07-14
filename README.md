@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Balachandharsriram</h1>
 <h3 align="center">Artificial Intelligence & Data Science Enthusiast🚀</h3>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+%7C+Data+Science+Developer;Machine+learning+Developer;Let's+build+something+cool+%F0%9F%9A%80" alt="Typing SVG" align = "center", />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=AI+%7C+Data+Science+Developer;Machine+learning+Developer;Let's+build+something+cool+%F0%9F%9A%80" alt="Typing SVG" align = "center"/>
 </div>
 
 
